@@ -21,11 +21,15 @@ http://localhost:8088/product/generate/bill
 
 User Service Urls to add and get users for retail Store
 http://localhost:8088/user/fetchbyid/9405364033
+
 http://localhost:8088/user/save
 
 Product Service Urls to add, delete and get products in Retail Store
 
 http://localhost:8088/product/save
+
 http://localhost:8088/product/deleteproduct/1
+
 http://localhost:8088/product/fetchbyid/2
+
 http://localhost:8088/product/fetch/allproducts
