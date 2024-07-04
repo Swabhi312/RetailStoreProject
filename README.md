@@ -30,9 +30,10 @@ http://localhost:8088/product/save
 
 http://localhost:8088/product/deleteproduct/1
 
-![Class_Diagram](https://github.com/Swabhi312/RetailStoreProject/assets/155736338/92ab9cc2-36d9-4ff3-984c-31cc44ce80e6)
-
 
 http://localhost:8088/product/fetchbyid/2
 
 http://localhost:8088/product/fetch/allproducts
+![Class_Diagram](https://github.com/Swabhi312/RetailStoreProject/assets/155736338/92ab9cc2-36d9-4ff3-984c-31cc44ce80e6)
+![Activity_Diagram](https://github.com/Swabhi312/RetailStoreProject/assets/155736338/e6a68875-1054-4376-8952-bbc971f1bb50)
+
